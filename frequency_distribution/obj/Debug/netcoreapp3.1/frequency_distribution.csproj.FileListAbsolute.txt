@@ -1,0 +1,13 @@
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\bin\Debug\netcoreapp3.1\frequency_distribution.exe
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\bin\Debug\netcoreapp3.1\frequency_distribution.deps.json
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\bin\Debug\netcoreapp3.1\frequency_distribution.runtimeconfig.json
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\bin\Debug\netcoreapp3.1\frequency_distribution.runtimeconfig.dev.json
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\bin\Debug\netcoreapp3.1\frequency_distribution.dll
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\bin\Debug\netcoreapp3.1\frequency_distribution.pdb
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\obj\Debug\netcoreapp3.1\frequency_distribution.csprojAssemblyReference.cache
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\obj\Debug\netcoreapp3.1\frequency_distribution.AssemblyInfoInputs.cache
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\obj\Debug\netcoreapp3.1\frequency_distribution.AssemblyInfo.cs
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\obj\Debug\netcoreapp3.1\frequency_distribution.csproj.CoreCompileInputs.cache
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\obj\Debug\netcoreapp3.1\frequency_distribution.dll
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\obj\Debug\netcoreapp3.1\frequency_distribution.pdb
+C:\Users\Rober\Desktop\Wim Technologies\Frequency_Distribution_Project\frequency_distribution\obj\Debug\netcoreapp3.1\frequency_distribution.genruntimeconfig.cache
